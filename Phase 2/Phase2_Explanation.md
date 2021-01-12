@@ -29,8 +29,6 @@ v) SVM model for classification (input: histograms, output: predection for testd
 ## Results
 As the dataset images are much similar, the model has given with highest accurecy 99% with less error rate. 
 
-A demo can be watched here: https://youtu.be/8wj0D_wCf3g
-
 ## Run files
 
 Run files in order:<br/>
@@ -47,8 +45,6 @@ to preprocess all the images (from raw images to histograms of bovw model) and t
 **Step 3:** To visualise the confusion matrix run the file
 
 >   python visualise.py
-
-Dataset can be downloaded from : https://drive.google.com/open?id=1keWr7-X8aR4YMotY2m8SlEHlyruDDdVi
 
 
 ### Credits
