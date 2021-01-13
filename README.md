@@ -11,6 +11,7 @@ www.dropbox.com/sh/52eb9rhpdmbvj5h/AAC2qo9oBAbWj8zCto6PXlroa?dl=0
 
 ## References
 ### Phase 1
+- https://www.geeksforgeeks.org/project-idea-audio-sign-language-translator/
 - Inspired by the [implementation of Satyam](https://github.com/satyam9090/Automatic-Indian-Sign-Language-Translator-ISL)
 ### Phase 2
 - Inspired by the [implementation of Rishab Guptha](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition)
